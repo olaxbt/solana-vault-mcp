@@ -1,0 +1,15 @@
+Flask==2.3.3
+Flask-Cors==4.0.0
+model-context-protocol==1.9.0
+solana==0.30.2
+pytest==7.4.0
+requests==2.31.0
+python-dotenv==1.0.0
+loguru==0.7.0
+pydantic==2.3.0
+cryptography==41.0.3
+websockets==11.0.3
+click==8.1.7
+gunicorn==21.2.0
+python-jose==3.3.0
+base58==2.1.1 
