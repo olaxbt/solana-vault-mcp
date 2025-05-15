@@ -27,7 +27,7 @@ Solana Vault MCP provides secure wallet operations for Solana blockchain through
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/solana-vault-mcp.git
+   git clone https://github.com/olaxbt/solana-vault-mcp.git
    cd solana-vault-mcp
    ```
 
